@@ -1,0 +1,14 @@
+SOURCE_URL="URL of source container without token"
+SOURCE_TOKEN="SAS token of source container"
+
+TARGET_URL="URL of target container without token"
+TARGET_TOKEN="SAS token of target container"
+
+GLOSSARY_URL="URL of glossary container without token"
+GLOSSARY_TOKEN="SAS token of glossary container"
+
+
+TRANSLATOR_TEXT="https://api.cognitive.microsofttranslator.com/"
+TRANSLATOR_DOCUMENTS="URL of your custom translator resource"
+TRANSLATOR_LOCATION="region of your custom translator resource"
+TRANSLATOR_KEY="key to access your custom translator resource"
